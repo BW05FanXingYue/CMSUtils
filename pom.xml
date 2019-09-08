@@ -3,4 +3,7 @@
   <groupId>com.bw</groupId>
   <artifactId>Test333</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  	
+  </build>
 </project>
